@@ -249,8 +249,8 @@ Go down to the "Add" button and click on "New Item" as shown below.
 6. Copy the Connection String for your Key1, go back to your "local.settings.json" file and paste the string for each of the 3 values in the "Values" parameter. Also make sure "AccountName" = your storage account name. 
 
     ![triggerfunctioncreate5](./media/documentation-government-function9.png)
-7. Once this has been set, you can run your Timer trigger function locally. 
-8. In order to deploy to Azure Government, use the same process as defined [above](documentation-government-functions.md#create-function-using-visual-studio).
+    
+7. Once this has been set, you can run your Timer trigger function locally. In order to deploy to Azure Government, use the same process as defined [above](documentation-government-functions.md#create-function-using-visual-studio).
 
 ## Use Azure Queues for Output Bindings
 
